@@ -15,3 +15,5 @@ Daily Assignments given by Mr. Lerner for practicing the python
    Assignment 1: last_line.py
 
    Assignment 2: passwd_dict.py
+   
+   Assignment 3: wc_implementation.py
